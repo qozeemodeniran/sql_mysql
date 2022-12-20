@@ -5,4 +5,3 @@ select * from test1;
 
 -- select specific columns
 select Car, Model from test1;
-
